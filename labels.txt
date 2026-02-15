@@ -1,0 +1,3 @@
+0 Real
+1 Fake
+2 None
